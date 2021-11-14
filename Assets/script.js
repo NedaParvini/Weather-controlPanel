@@ -69,7 +69,7 @@ function currentCondition(city) {
     });
 }
 
-// function for future condition
+// Future condition
 function futureCondition(lat, lon) {
 
     //5-day forecast
